@@ -1,0 +1,9 @@
+{
+  "name": "group-bot",
+  "author": "nekrxs.",
+  "dependencies": {
+    "better-sqlite3": "^10.0.0",
+    "discord.js": "^14.15.2",
+    "quick.db": "^9.1.7"
+  }
+}
